@@ -1,0 +1,9 @@
+.row {
+    display: inline-flex;
+}
+
+.col {
+    width: 30%;
+    margin-left: 30px;
+    padding-right: 30px;
+}
